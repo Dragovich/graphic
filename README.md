@@ -1,5 +1,5 @@
 ## View
-https://thedragovich.github.io/graphic/
+https://dragovich.github.io/graphic/
 ## Build & Run
 ```
 npm i
